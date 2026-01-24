@@ -3,7 +3,6 @@
 This document defines a strict, single-user hardening posture for Windows 8. The system is assumed to be end-of-life, insecure by default, and must be deliberately reduced, constrained, and verified.
 
 ## Chapter 1 — Threat Model
-
 One user. One machine. No background trust. Primary threats include silent network egress, unauthorized persistence, and metadata leakage.
 
 ## Chapter 2 — Pre-Hardening Enumeration
