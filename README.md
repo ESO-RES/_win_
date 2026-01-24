@@ -56,4 +56,5 @@ It is not intended to:
 The output of this work is a system that does nothing silently and
 changes state only through deliberate user action.
 
-![image](https://github.com/user-attachments/assets/02ce7343-0eb3-4b21-ba60-d481552b59c9)
+![image](https://github.com/user-attachments/assets/e3185f1f-b6c7-4071-ae6c-6c9361583ddc)
+
