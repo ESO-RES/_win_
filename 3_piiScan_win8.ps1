@@ -242,3 +242,4 @@ if ($fullOut) {
 }
 
 exit 0
+
