@@ -7,12 +7,10 @@ if /i "%~1"=="--help" goto :usage
 set "DOMAIN=%~1"
 if not defined DOMAIN set "DOMAIN=google.com"
 
-
 REM ===============================================================
 REM DNSRecords.bat
 REM Windows 8 built-in tools only (cmd + PowerShell + nslookup)
-REM From-scratch port of 6_DNSRecords.py main():
-REM   - domain: google.com
+REM   - domain: google.com (default)
 REM   - records: A, AAAA, CNAME, MX, NS, SOA, TXT
 REM   - prints:
 REM       <blank line>
