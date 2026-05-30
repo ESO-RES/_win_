@@ -79,7 +79,7 @@
 
     Requirements:
         - Windows 8 / Windows Server 2012 or newer
-        - PowerShell 4.0+
+        - PowerShell 3.0+
         - Resolve-DnsName available
 
     Legacy compatibility version:
